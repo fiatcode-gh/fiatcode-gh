@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💫 About Me:
+🔭 Building mobile things at a local startup, one clean commit at a time<br>
+🌱 Deepening roots in Flutter & React Router — mastery over speed<br>
+💬 Silent by default. Ask anyway<br>
+⚡ Procrastination is just misplaced confidence
 
-<!--
-**fiatcode-gh/fiatcode-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=fiatcode-gh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiatcode-gh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=fiatcode-gh&icon=5&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
